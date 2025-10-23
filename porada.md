@@ -36,4 +36,4 @@ nemusíme mít uplně zahozené věci ale můžeme je mít pořád někde v hlav
 
 Promyslet že to nemám odstronovat hned redukce prvádět pomalu
 
-zajímá mě ergonomika jestli je člověk levák pravák nebo naopak jestli mě to vůbec zajímá nebo ne
+zajímá mě ergonomika jestli je člověk levák pravák nebo naopak jestli mě to vůbec zajímá nebo
